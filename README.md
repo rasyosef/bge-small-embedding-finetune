@@ -1,4 +1,4 @@
-# Fine-tune bge-small Embedding model for Retrieval Augmented Generation (RAG).ipynb
+# Fine-tuning bge-small Embedding model for Retrieval Augmented Generation (RAG)
 
 This notebook contains code for fine-tuning the `33M` parameter [BAAI/bge-small-en-v1.5](https://huggingface.co/BAAI/bge-small-en-v1.5) text embedding model on a synthetic dataset from the 2023_10 NVIDIA SEC Filing ([philschmid/finanical-rag-embedding-dataset](https://huggingface.co/datasets/philschmid/finanical-rag-embedding-dataset)) using the Sentence Transformers library.
 
